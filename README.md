@@ -8,7 +8,7 @@ This Theme was created to fix my OCD over misalignments. 🗿
 1. Open Zen Browser.
 2. Head to "about:support".
 3. Locate "Profile Folder" and hit "Open Folder".
-4. Locate the "chrome" folder. If non existant, create it or make sure to download before mentioned themes first.
+4. Locate the "chrome" folder. If the folder is notthere, create it or make sure to download before mentioned recommended themes first.
 5. Download the [userChrome.css](./userChrome.css) file and put it inside the "chrome" folder.
 6. Restart Zen Browser.
 
