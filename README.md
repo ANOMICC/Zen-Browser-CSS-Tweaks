@@ -11,3 +11,6 @@ This Theme was created to fix my OCD over misalignments. 🗿
 4. Locate the "chrome" folder. If non existant, create it or make sure to download before mentioned themes first.
 5. Download the userChrome.css file and put it inside the "chrome" folder.
 6. Restart Zen Browser.
+
+## Showcase
+![Showcase](https://github.com/user-attachments/assets/2a1d40c5-f691-40ed-9af3-4130dedc91b5)
