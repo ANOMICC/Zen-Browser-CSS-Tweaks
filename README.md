@@ -1,4 +1,4 @@
-# Zen Browser Tweaks
+# Zen Browser CSS Tweaks
 A CSS file to fix some minor misalignment and spacing issues. Aims to make your Zen Browser experience a bit better while also giving you the option to modify the css and use your own colors. (Default Theme: OLED).
 This Theme was created to fix my OCD over these tiny misalignments. 🗿
 
