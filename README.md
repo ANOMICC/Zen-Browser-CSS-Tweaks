@@ -14,3 +14,12 @@ This Theme was created to fix my OCD over these tiny misalignments. 🗿
 
 ## Showcase
 ![Showcase](https://github.com/user-attachments/assets/2a1d40c5-f691-40ed-9af3-4130dedc91b5)
+
+## Changes
+- Customizeable color theme
+- Fixed spacing between sidebar tabs
+- Removed borders from certain buttons and the main window
+- Removed the "All Tabs" and "Bookmark" buttons in the sidebar
+- Fixed the weird sidebar padding
+- Rounded the windows buttons
+- Fixed some spacing inside the URLBar Theme
